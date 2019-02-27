@@ -1,5 +1,3 @@
-// Author: M. Sudhakar
-// Program demonstrating to check the given number is even number or odd number.
 #include<stdio.h>
 void main()
 {
